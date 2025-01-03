@@ -11,7 +11,6 @@ My passion for research and teaching sets me apart. I am deeply committed to und
 I am always open to networking and collaborating with like-minded professionals and researchers. If you're interested in discussing innovative business solutions, particularly in operations, supply chain management, and sustainability, let's connect. Together, we can address some of the most pressing challenges in the business world today.
 
 ## My Skills
-
 ### Technical Skills
 
 {% include technicalskills.md %}
