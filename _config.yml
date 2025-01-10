@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Raza Rafique"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Optimizing the world one equation at a time, with coffee as fuel."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
