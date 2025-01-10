@@ -5,5 +5,9 @@ main:
     url: /teaching/
   - title: "Research"
     url: /research/
-  - title: "About"
-    url: /about/
+  - title: "Media"
+    url: /media/
+  - title: "Books"
+    url: /books/
+  - title: "Contact"
+    url: /contact/
