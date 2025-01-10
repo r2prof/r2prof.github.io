@@ -67,7 +67,7 @@ author:
       url: "https://www.linkedin.com/in/razarafique/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rzrrafique/"
+      url: "https://twitter.com/rzrafique/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/r2prof/"
@@ -79,7 +79,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rzrrafique/"
+      url: "https://twitter.com/rzrafique/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/r2prof/"
