@@ -7,5 +7,7 @@ main:
     url: /motorcycling/
   - title: "Field Hockey"
     url: /field-hockey/
+  - title: "Books"
+    url: /books/
   - title: "Journal"
     url: /year-archive/
