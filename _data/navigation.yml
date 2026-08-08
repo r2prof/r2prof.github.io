@@ -1,13 +1,11 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Research"
-    url: /research/
-  - title: "Media"
-    url: /media/
-  - title: "Books"
-    url: /books/
-  - title: "Contact"
-    url: /contact/
+  - title: "Academic"
+    url: /academic/
+  - title: "Motorcycling"
+    url: /motorcycling/
+  - title: "Field Hockey"
+    url: /field-hockey/
+  - title: "Journal"
+    url: /year-archive/
