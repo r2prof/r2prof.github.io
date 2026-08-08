@@ -1,23 +1,19 @@
 ---
-title: "Academic"
-permalink: /academic/
+title: "About"
+permalink: /about/
 layout: single
 author_profile: true
 ---
 
-I'm an Associate Professor at the School of Management, Kean University.
+I'm Raza — an Associate Professor at the School of Management, Kean University, where I teach and research at the intersection of AI, business, and data.
 
-**Teaching**
-Course design and delivery around AI for business — most recently *AI for Business: Entrepreneurship in the Age of Intelligent Tools*, alongside core courses in business analytics and statistics.
+Outside of that, this site is where I keep track of the rest: getting into motorcycling, field hockey, and whatever else ends up taking over my weekends. I'd rather this stay a living page than a polished-once, forgotten-after bio, so expect it to change as I do.
 
-**Research**
-My current research uses text-as-data methods, with a focus on ESG and sustainability through a supply chain lens.
+A few things that are true about me right now:
 
-**Elsewhere**
-- [Google Scholar](#) — add your profile link
-- [CV (PDF)](#) — add a link to your CV once uploaded to `/assets/files/`
-- [LinkedIn](https://www.linkedin.com/in/razarafique/)
+- I teach and design courses on AI for business at Kean University.
+- I'm building an early-stage LLC offering AI advisory and training to small businesses.
+- I recently got my NJ motorcycle endorsement and am slowly building out a proper gear kit.
+- I read a lot — mostly quiet, interior literary fiction and behavioral economics/history.
 
----
-
-*This page is intentionally brief — a signpost rather than a full CV. Longer writeups on specific research or course design live in the [Journal](/year-archive/) under the "academic" tag.*
+If you want the more formal version, see the [Academic](/academic/) page. If you want to see what I've been riding or reading about lately, check the [Journal](/year-archive/).
