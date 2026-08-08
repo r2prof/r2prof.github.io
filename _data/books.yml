@@ -1,0 +1,21 @@
+# Add a new book by copying one block below and editing it.
+# rating is a whole number from 1 to 5.
+# notes is optional — delete the line if you don't want one.
+
+- title: "Stoner"
+  author: "John Williams"
+  rating: 5
+  notes: "Quiet, restrained, devastating. Exactly the kind of interior novel I go back to."
+  date_read: "2026-01"
+
+- title: "Thinking, Fast and Slow"
+  author: "Daniel Kahneman"
+  rating: 5
+  notes: "Reread material — dense but foundational."
+  date_read: "2025-11"
+
+- title: "The Housekeeper and the Professor"
+  author: "Yōko Ogawa"
+  rating: 4
+  notes: "Spare and gentle. Ogawa at her best."
+  date_read: "2025-09"
